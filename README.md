@@ -1,2 +1,2 @@
-# Programming-Problem-Week2_1
+# Programming-Problem
 Find the largest number of 3 numbers
